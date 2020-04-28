@@ -18,7 +18,7 @@
     margin: 15px;
 }
 
-.form-container input {
+.form-container input,select {
     color: #00203FFF;
     padding: 2px;
     margin: 15px;
