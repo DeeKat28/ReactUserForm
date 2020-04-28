@@ -1,0 +1,56 @@
+.form-content {
+    background: #00203FFF;
+    min-width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.form-container {
+    min-width: 50%;
+    color: #ADEFD1FF;
+}
+
+.form-container label {
+    display: inline-block;
+    color: #ADEFD1FF;
+    margin: 15px;
+}
+
+.form-container input {
+    color: #00203FFF;
+    padding: 2px;
+    margin: 15px;
+    border: none;
+    border-radius: 2px;
+    min-width: 30%;
+}
+
+.form-container button {
+    background: #ADEFD1FF;
+    border: none;
+    margin: 15px;
+    padding: 10px 35px;
+    cursor: pointer;
+    color: #00203FFF;
+    border-radius: 3px;
+    font-weight: 700;
+}
+
+.form-container button:hover {
+    background: #D6ED17FF;
+    color: #00203FFF;
+}
+
+.form-container .radioBtn {
+    min-width: 0px;
+    padding: 0px;
+    margin: 10px;
+}
+
+/* .form-container .radioBtnNo {
+    min-width: 0px;
+    padding: 0px;
+    margin: 0px;
+} */

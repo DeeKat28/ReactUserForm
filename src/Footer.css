@@ -1,0 +1,14 @@
+.fixed-footer {
+    width: 100%;
+    position: fixed;        
+    background: #333;
+    padding: 20px 0;
+    color: #fff;
+    bottom: 0;
+}
+
+.fixed-footer .container{
+    width: 80%;
+    margin: 0 auto; /* Center the DIV horizontally */
+    text-align: center;
+}
